@@ -66,6 +66,12 @@ public class BasicApplicationTests {
         }
     }
 
+    
+    /*
+        METODOS PARA PROBAR LA CREACION Y BUSQUEDA DE FACTURAS
+    */
+    
+    
     /**
      * Test call of create method, on weblayer.
      */
