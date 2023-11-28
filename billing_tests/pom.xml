@@ -117,6 +117,8 @@
                 <configuration>
                     <source>${maven.compiler.source}</source>
                     <target>${maven.compiler.source}</target>
+                    
+                    
                     <!-- generate mappers -->
                     <annotationProcessorPaths>
                         <path>
